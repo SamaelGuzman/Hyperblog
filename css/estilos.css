@@ -3,7 +3,7 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-.container
+#container
 {
 border: solid rgba(190, 184, 184, 0.774) 0.1px;
 text-align: left;
