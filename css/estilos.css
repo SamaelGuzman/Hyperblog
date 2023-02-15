@@ -8,7 +8,7 @@ body{
 border: solid rgba(190, 184, 184, 0.774) 0.1px;
 text-align: left;
 font-size: 25px;
-width: 70%;
+width: 80%;
 padding: 0;
 margin: 0 auto;
 
@@ -23,8 +23,8 @@ justify-content: center;
 
 #cabecera
 {
-    color: red;
-     background-color: deepskyblue;
+    color: cornsilk;
+     background-color: coral;
     text-align: left;
     font-family: cursive;
     padding: 20px 10px ;
